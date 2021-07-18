@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-gachi-test/static/css/main.e4b7712e.chunk.css",
+    "main.js": "/simple-gachi-test/static/js/main.e49a5d5d.chunk.js",
+    "main.js.map": "/simple-gachi-test/static/js/main.e49a5d5d.chunk.js.map",
+    "runtime-main.js": "/simple-gachi-test/static/js/runtime-main.8b5c5dba.js",
+    "runtime-main.js.map": "/simple-gachi-test/static/js/runtime-main.8b5c5dba.js.map",
+    "static/js/2.1e63aa0b.chunk.js": "/simple-gachi-test/static/js/2.1e63aa0b.chunk.js",
+    "static/js/2.1e63aa0b.chunk.js.map": "/simple-gachi-test/static/js/2.1e63aa0b.chunk.js.map",
+    "static/js/3.5d944bff.chunk.js": "/simple-gachi-test/static/js/3.5d944bff.chunk.js",
+    "static/js/3.5d944bff.chunk.js.map": "/simple-gachi-test/static/js/3.5d944bff.chunk.js.map",
+    "index.html": "/simple-gachi-test/index.html",
+    "static/css/main.e4b7712e.chunk.css.map": "/simple-gachi-test/static/css/main.e4b7712e.chunk.css.map",
+    "static/js/2.1e63aa0b.chunk.js.LICENSE.txt": "/simple-gachi-test/static/js/2.1e63aa0b.chunk.js.LICENSE.txt",
+    "static/media/gachimuchi.8b184666.jpg": "/simple-gachi-test/static/media/gachimuchi.8b184666.jpg",
+    "static/media/master.4039b226.jpeg": "/simple-gachi-test/static/media/master.4039b226.jpeg",
+    "static/media/slave.7d2854ba.jpg": "/simple-gachi-test/static/media/slave.7d2854ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b5c5dba.js",
+    "static/js/2.1e63aa0b.chunk.js",
+    "static/css/main.e4b7712e.chunk.css",
+    "static/js/main.e49a5d5d.chunk.js"
+  ]
+}

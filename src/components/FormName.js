@@ -7,7 +7,7 @@ const FormName = ( {onAdd} ) => {
         e.preventDefault();
 
         if(!text) {
-            alert("Не пытайся обмануть Dungeon Master'a, напиши свое имя!");   
+            alert("Не пытайся обмануть Dungeon Master'a, НАПИШИ СВОЕ ИМЯ!");   
             return
         }
         onAdd({ text });

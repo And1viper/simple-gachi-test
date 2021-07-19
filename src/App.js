@@ -17,7 +17,7 @@ function App() {
     setNameLength(name.text.length);
   }
   
-  const masterList = ['Arslan', 'Amirlan'];
+  const masterList = ['And1viper', 'Aestian', 'Rokan', 'shNuk3', 'RinRi'];
 
   //For whatever reason masterList.length in MasterList.js gives me undefined
   let masterListLength = masterList.length;

@@ -17,7 +17,7 @@ function App() {
     setNameLength(name.text.length);
   }
   
-  const masterList = ['And1viper', 'Aestian', 'Rokan', 'shNuk3', 'RinRi'];
+  const masterList = ['And1viper', 'Aestian', 'Rokan', 'shNuk3', 'RinRi', '120'];
 
   return (
     <div className="container">

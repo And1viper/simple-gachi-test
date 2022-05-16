@@ -1,0 +1,1 @@
+export const masterList = ['And1viper', 'Aestian', 'Rokan', 'shNuk3', 'RinRi', '120', 'Margulan', 'Dulkinsar'];

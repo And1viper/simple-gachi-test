@@ -25,3 +25,54 @@ code {
   text-align: center;
   margin-top: 10px;
 }
+
+h1{
+  margin-bottom: 0;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list{
+  display: flex;
+}
+
+.nav-list > li{
+  margin: 0 1em;
+  font-size: 1.125rem;
+}
+
+.question-card{
+  border-radius: 2rem;
+  border: solid black 1px;
+  padding: 1em;
+}
+
+.option-list li{
+  background-color: white;
+  border: solid black 1px;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.option-list li:hover{  
+  background-color: bisque;
+  cursor: pointer;
+}
+
+.option-list li:active{  
+  background-color: bisque;
+  opacity: 0.6;
+  transform: scale(0.95);
+}
+
+.fucking-slave{
+  font-size: 3rem;
+}
